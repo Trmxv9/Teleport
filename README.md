@@ -17,6 +17,6 @@ Commands:
 
 ## Irei atualizar de acordo com tempo.
 
-Meu discord: (Termax Developer)[https://discord.gg/mvUzVMySVA]
+Meu discord: [Termax Developer](https://discord.gg/mvUzVMySVA)
 
 ![Markers by Termax-Cover](https://github.com/user-attachments/assets/bccf7c9c-38b4-487c-b82d-d93693293cc4)
