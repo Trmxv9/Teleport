@@ -3,6 +3,8 @@
 
 - **Senha:** 123
 
+- **Group com permissão:** Founder
+
 ## Comandos:
 
 - **/addm [nome]**: Cria um Marker na posição do player na cor vermelha.
