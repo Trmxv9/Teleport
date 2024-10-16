@@ -1,22 +1,19 @@
 # Teleport
-Markers Teleport to MTA 
+**Markers Teleport para MTA**
 
-- Passowrd: 123
+- **Senha:** 123
 
-Commands:
+## Comandos:
 
-- /addm [nome] - Cria um Marker na pocisão do player na cor vermelha.
+- **/addm [nome]**: Cria um Marker na posição do player na cor vermelha.
+- **/poms [nome]**: Define a posição que o player vai aparecer ao passar pelo marker vermelho.
+- **/delm [nome]**: Deleta um marker que já existe.
+- **/movm [nome]**: Move o marker vermelho para a posição atual do player.
+- **/mks**: Abre um menu para gerenciar todos os markers criados na cidade (Ir até ele / Deletar marker).
 
-- /poms [nome] - Define posição que player irá aparecer após passar por cima do marker vermelho.
+## Atualizações:
+Fique ligado, irei atualizar conforme for possível.
 
-- /delm [nome] - Deleta um marker que já existe.
-
-- /movm [nome] - Move o marker vermelho para posição atual do player.
-
-- /mks - Abre menu que gerencia todos markes criado pela cidade (Ir até ele / Deletar marker)
-
-## Irei atualizar de acordo com tempo.
-
-Meu discord: [Termax Developer](https://discord.gg/mvUzVMySVA)
+**Meu Discord:** [Termax Developer](https://discord.gg/mvUzVMySVA)
 
 ![Markers by Termax-Cover](https://github.com/user-attachments/assets/bccf7c9c-38b4-487c-b82d-d93693293cc4)
