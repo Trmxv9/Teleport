@@ -16,6 +16,8 @@
 ## Atualizações:
 Fique ligado, irei atualizar conforme for possível.
 
+[Video YouTube](https://www.youtube.com/watch?v=1wOIKW4ESBM)
+
 **Meu Discord:** [Termax Developer](https://discord.gg/mvUzVMySVA)
 
 ![Markers by Termax-Cover](https://github.com/user-attachments/assets/bccf7c9c-38b4-487c-b82d-d93693293cc4)
